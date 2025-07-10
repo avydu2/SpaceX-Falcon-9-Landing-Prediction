@@ -4,10 +4,7 @@ SpaceX’s reusable Falcon 9 first stage significantly reduces launch costs, mak
 
 Key Questions:
 
-Will the first stage land successfully?
-
-What factors affect first stage recovery?
-
-How accurate are the predictive models?
-
-How can predictions help optimize launch pricing?
+1.Will the first stage land successfully?
+2.What factors affect first stage recovery?
+3.How accurate are the predictive models?
+4.How can predictions help optimize launch pricing?
