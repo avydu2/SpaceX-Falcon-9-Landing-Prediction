@@ -1,2 +1,1 @@
-# SpaceX_Falcon9 Landing Prediction
-SpaceX’s reusable Falcon 9 first stage significantly reduces launch costs, making it a key differentiator in the commercial space industry. Predicting the success of first stage landings is essential for estimating launch pricing and overall mission cost efficiency. This project leverages public SpaceX data and machine learning techniques to forecast whether a Falcon 9 first stage will be successfully recovered.
+This project focuses on predicting the successful recovery of SpaceX Falcon 9 first stages, a critical factor for optimizing launch costs and mission efficiency in the commercial space industry. By analyzing public SpaceX data with machine learning, this model aims to accurately forecast landing outcomes.
